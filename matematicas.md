@@ -1,5 +1,5 @@
 #Nuestro cliente es el mejor
-Esto es un fichero muy chulo
+Esto es un fichero muy chulo. Estos son unos cambios que se aplicaran con reabse
 hola, esto es un fichero de lectura para nuestro repositorio.
 
 
